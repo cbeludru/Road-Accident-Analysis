@@ -20,6 +20,36 @@ These files provide detailed road safety data about the circumstances of persona
 
 <br>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Vehicle
+| Accident Index
+| Vehicle Reference
+| Vehicle Type
+| Towing and Articulation
+| Vehicle Manoeuvre
+| Vehicle Location-Restricted Lane
+| Junction Location
+| Skidding and Overturning
+| Hit Object in Carriageway
+| Vehicle Leaving Carriageway
+| Hit Object off Carriageway
+| 1st Point of Impact
+Was Vehicle Left Hand Drive
+Journey Purpose of Driver
+Sex of Driver
+Age of Driver
+Age Band of Driver
+Engine Capacity
+Vehicle Propulsion Code
+Age of Vehicle (manufacture)
+Driver IMD Decile
+Driver Home Area Type
+<br>
+
 **Guide for the data:**
 
 Road Accident Safety Data Guide <br>
