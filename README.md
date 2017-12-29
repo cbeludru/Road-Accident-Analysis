@@ -18,7 +18,7 @@ The zipfile includes 3 files:
 
 These files provide detailed road safety data about the circumstances of personal injury road accidents in GB from 2005 to 2014. the types (including Make and Model) of vehicles involved and the consequential casualties. All the data variables are coded rather than containing textual strings. 
 
-Table of variables in the dataset:
+Table of variables in the datasets:
 
 | Accident Circumstances                                             | Vehicle                          | Casualty                                       |
 |--------------------------------------------------------------------|----------------------------------|------------------------------------------------|
