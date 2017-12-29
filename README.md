@@ -20,6 +20,10 @@ These files provide detailed road safety data about the circumstances of persona
 
 <br>
 
+List of variables in the dataset:
+
+<br>
+
 | Accident Circumstances                                             | Vehicle                          | Casualty                                       |
 |--------------------------------------------------------------------|----------------------------------|------------------------------------------------|
 | Accident Index                                                     | Accident Index                   | Accident Index                                 |
