@@ -2,7 +2,7 @@
 
 **Purpose:**
 
-Demonstrate analysis of large dataset using python.
+To demonstrate analysis of large dataset using python.
 
 <br>
 
