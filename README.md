@@ -1,6 +1,12 @@
 # UK_Road_Accidents_Analysis
 
-**Data analyzed:**
+**Purpose**
+
+Demonstrate analysis of large dataset using python
+
+<br>
+
+**Data used for analysis:**
 
 All STATS19 data (accident, casualties and vehicle tables) for 2005 to 2014 (zipfile size: 108 MB)
 http://data.dft.gov.uk.s3.amazonaws.com/road-accidents-safety-data/Stats19_Data_2005-2014.zip
