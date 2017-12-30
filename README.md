@@ -1,4 +1,4 @@
-# UK Road Accidents Analysis
+# UK Road Accident Analysis
 
 **Purpose:**
 
@@ -12,9 +12,9 @@ All STATS19 data (accident, casualties and vehicle tables) for 2005 to 2014 (zip
 http://data.dft.gov.uk.s3.amazonaws.com/road-accidents-safety-data/Stats19_Data_2005-2014.zip
 
 The zipfile includes 3 files:
-1. Accidents0514.csv (225.3 MB)
-2. Casualties0514.csv (99.6 MB)
-3. Vehicles0514.csv (189.7 MB)
+1. Accidents0514.csv (225.3 MB, 1,640,000 x 32 table)
+2. Casualties0514.csv (99.6 MB, 2,200,000 x 16 table)
+3. Vehicles0514.csv (189.7 MB, 3,000,000 x 22 table)
 
 These files provide detailed road safety data about the circumstances of personal injury road accidents in GB from 2005 to 2014. the types (including Make and Model) of vehicles involved and the consequential casualties. All the data variables are coded rather than containing textual strings. 
 
